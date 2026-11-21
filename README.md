@@ -103,7 +103,10 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
+No Frequent:
 <img width="957" height="547" alt="image" src="https://github.com/user-attachments/assets/9e465374-de47-4871-b306-87d379f518c6" />
+Frequent:
+<img width="920" height="640" alt="image" src="https://github.com/user-attachments/assets/f8f54d09-b1ca-4ffd-a6ab-3d3f6c5f8aec" />
 
 ### Visualization:
 ```python
@@ -132,9 +135,19 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
+
+No frequent:
 <img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/0a0201f7-20de-47d2-bdc7-df4b86ac4726" />
 
 <img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/1e1bacc9-d38c-4b04-af97-34103a2e94ff" />
+
+Frequent:
+<img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/67c17646-aee0-4e7a-9cdb-8ffdcd2e8fd8" />
+
+<img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/a210adff-5fc1-4b50-b60a-0a2ab0cbe5c9" />
+
+<img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/6153f744-db46-4b19-ad26-cb6ccb886241" />
+
 
 ### Result:
 Thus the Generalized Sequential Pattern (GSP) Algorithm was implemented successfully using Python, and the frequent sequential patterns were discovered and visualized.
